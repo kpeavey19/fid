@@ -1,0 +1,61 @@
+
+body {
+background-color: #f2f288;
+margin: 0 15%;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Rammetto+One');
+
+h1 {
+font-family: "Rammetto One", sans-serif;
+text-align: center;
+font-weight: normal;
+text-transform: uppercase;
+border-bottom: 1px solid #57b1dc;
+margin-top: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+	color: #993399;
+}
+a:hover {
+	color: #c700f2;
+	background-color: #fff;
+}
+
+a:active {
+	color: ##d1633c;
+}
+
+h2 {
+color: #d1633c;
+font-size: 1em;
+font-weight: bold;
+font-family: "Rammetto One", sans-serif;
+}
+
+h3 {
+color: #d1633c;
+font-size: 1em;
+font-weight: bold;
+font-family: "Rammetto One", sans-serif;
+}
+
+h4 {
+color: #d1633c;
+font-size: 1em;
+font-weight: bold;
+font-family: "Rammetto One", sans-serif;
+}
+
+h5 {
+color: #d1633c;
+font-size: 1em;
+font-weight: bold;
+font-family: "Rammetto One", sans-serif;
+}
+
