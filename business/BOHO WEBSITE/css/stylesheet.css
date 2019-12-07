@@ -1,0 +1,223 @@
+body {
+	margin: 0px;
+	background-color:white;
+	font-family: "Castellar", serif;
+}
+
+.clearboth {
+	clear:both;
+}
+
+.brown {
+	color:#603a12;
+}
+
+.brown a {
+	color:#603a12;
+	font-size:110%;
+	text-decoration:none;
+}
+
+.tan {
+	color:#e1d2c3;
+}
+
+.backgroundofdivwhite {
+	height: 112px;
+	margin: 0px auto;
+	background-color:#white;
+}
+
+header {
+	width:980px;
+	margin: 0px auto;
+	background-color:;
+}
+
+.logo {
+	width:282px;
+	background-color:;
+	float:left;
+}
+
+.phone {
+	width:698x;
+	margin:18px 17px 0px 0px;
+	background-color:white;
+	color:#603a12;
+	float:right;
+	font-size:70%;
+	text-align: right;
+}
+
+.backgroundofdivtan {
+	height:58px;
+	margin: 0px auto;
+	background-color:#e1d2c3;
+}
+
+nav {
+	height:15px;
+	padding:20px;
+	width:980px;
+	margin: 0px auto;
+	background-color:#e1d2c3;
+	text-align: center;
+}
+
+nav a {
+	color:black;
+	text-decoration: none;
+	margin:0px 30px 0px 30px;
+	font-family: "Castellar", serif;
+}
+
+nav a:hover {
+	color:white;
+	text-decoration: none;
+}
+
+.banner {
+	height:475px;
+	width:980px;
+	margin: 0px auto;
+}
+
+.backgroundofdivtan2 {
+	height:475px;
+	margin: 0px;
+	background-color:#e1d2c3;
+}
+
+.backgroundofdivwhite2 {
+	margin: 0px auto;
+	background-color:white;
+}
+
+.bodyContentTop {
+	width:980px;
+	margin: 0px auto;
+	background-color:;
+}
+
+
+.one {
+	width:240px;
+	margin:0px;
+	background-color:;
+	float:left;
+	text-align: center;
+}
+
+.backgroundofdivbrown {
+	margin: 0px auto;
+	background-color:#603a12;
+}
+
+
+.bodyContentBottom {
+	width:980px;
+	margin: 0px auto;
+	background-color:;
+}
+
+.bottom1 {
+	width:312px;
+	margin:25px 0px 25px 150px;
+	background-color:#603a12;
+	color:white;
+	float:left;
+}
+
+.bottom2 {
+	width:312px;
+	margin:25px 0px 25px 75px;
+	background-color:#603a12;
+	color:white;
+	float:left;
+}
+
+.bottom3 {
+	width:312px;
+	margin:25px 50px 75px 100px;
+	background-color:#603a12;
+	color:white;
+	float:center;
+}
+
+.contact {
+	width:980px;
+	margin: 0px auto;
+	background-color:;
+}
+
+.contact1 {
+	width:312px;
+	margin:25px 0px 25px 150px;
+	background-color:;
+	float:left;
+}
+
+.contact2 {
+	width:312px;
+	margin:25px 0px 25px 75px;
+	background-color:;
+	float:left;
+}
+
+.backgroundofdivtan3 {
+	height:211px;
+	margin: 0px;
+	background-color:#e1d2c3;
+}
+
+
+footer {
+	width:980px;
+	height:161px;
+	margin: 0px auto;
+	padding:25px 0px 25px 100px;
+	background-color:#e1d2c3;
+	color:black;
+}
+
+footer a {
+	color:black;
+	text-decoration: underline;
+	font-size:100%
+}
+
+footer a:hover {
+	color:white;
+	text-decoration: none;
+}
+
+.spacer1 {
+	height:43px;
+	background-color:#e1d2c3;
+}
+
+
+.spacer2 {
+	height:43px;
+	background-color:#603a12;
+}
+
+.spacer3 {
+	height:15px;
+	background-color:#603a12;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
